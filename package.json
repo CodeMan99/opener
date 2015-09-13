@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "author": "Cody Taylor",
   "license": "ISC",
-  "repository": "CodeMan/opener",
+  "repository": "CodeMan99/opener",
   "main": "opener.js",
   "bin": "opener.js",
   "scripts": {
