@@ -1,4 +1,4 @@
-# opener2 # [![Build Status](https://travis-ci.org/CodeMan99/opener.svg?branch=master)](https://travis-ci.org/CodeMan99/opener)
+# opener2 [![Build Status](https://travis-ci.org/CodeMan99/opener.svg?branch=master)](https://travis-ci.org/CodeMan99/opener) #
 
 A clone of [opener](https://www.npmjs.com/package/opener) without the 'child_process' call included.
 Single function that returns an object with the platform dependent "open"
