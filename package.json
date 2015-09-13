@@ -1,19 +1,19 @@
 {
-    "name": "opener",
-    "description": "Opens stuff, like webpages and files and executables, cross-platform",
-    "version": "1.4.1",
-    "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
-    "license": "WTFPL",
-    "repository": "domenic/opener",
-    "main": "opener.js",
-    "bin": "opener.js",
-    "files": [
-        "opener.js"
-    ],
-    "scripts": {
-        "lint": "jshint opener.js"
-    },
-    "devDependencies": {
-        "jshint": "^2.6.3"
-    }
+  "name": "opener2",
+  "description": "function to get a cross-platform open command",
+  "version": "2.0.0",
+  "author": "Cody Taylor",
+  "license": "ISC",
+  "repository": "CodeMan/opener",
+  "main": "opener.js",
+  "bin": "opener.js",
+  "scripts": {
+    "test": "faucet ./test/*.js",
+    "lint": "jshint ./opener.js ./test/*.js"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "jshint": "^2.8.0",
+    "tape": "^4.2.0"
+  }
 }
