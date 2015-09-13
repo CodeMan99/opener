@@ -1,7 +1,7 @@
 {
   "name": "opener2",
   "description": "function to get a cross-platform open command",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Cody Taylor",
   "license": "ISC",
   "repository": "CodeMan99/opener",
